@@ -1,0 +1,5 @@
+streamlit==1.64.0
+openai==3.22.1
+pydantic>=2.12,<3
+python-dotenv==1.2.3
+reportlab>=4.2,<5
